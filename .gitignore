@@ -1,0 +1,25 @@
+# Compiled output
+bin/
+*.class
+
+*.pdf
+
+# Eclipse
+.settings/
+.metadata/
+.classpath
+.project
+
+# IntelliJ IDEA
+.idea/
+*.iml
+
+# VS Code
+.vscode/
+
+# Logs
+*.log
+
+# OS
+.DS_Store
+Thumbs.db
